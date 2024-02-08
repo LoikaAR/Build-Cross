@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=RanOverLoseFrame
+comment0.text=\n\ RanOverLoseFrame\ class,\ appears\ when\ the\ player\ loses\ by\ getting\ ran\ over.\n\ \n\ @author\ arseni.loika@usi.ch\n\ @author\ delara.lomen@usi.ch\n\ @version\ 28.05.2022\n
+comment1.params=
+comment1.target=RanOverLoseFrame()
+comment1.text=\n\ The\ frame\ that\ is\ displayed,\ if\ the\ player\ gets\ ran\ over\ by\ the\ train.\n
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=java.awt.Dimension\ getGameDimension()
+comment4.text=\n\ Method\ to\ obtain\ Dimension\ from\ the\ GameContent\ class.\n\ \n\ @return\ dimension\ the\ dimension.\n
+numComments=5

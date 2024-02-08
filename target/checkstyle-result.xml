@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/home/arseni/Desktop/project-build-cross/src/model/Tile.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/Map.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/PlayerMove.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/Mine.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/TestMap.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/Bridge.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/Entity.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/Railway.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/DigCommand.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/Lake.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/InteractCommands.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/Grass.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/Train.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/Player.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/Movable.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/Grid.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/Resources.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/TrainMove.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/Tree.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/ModelMap.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/PlaceBridgeCommand.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/model/PlaceRailCommand.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/gui/GameContent.java">
+<error line="5" severity="warning" message="Wrong lexicographical order for &apos;model.Map&apos; import. Should be before &apos;model.ModelMap&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="7" severity="warning" message="&apos;java.awt.Font&apos; should be separated from previous import group by one line." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="9" severity="warning" message="Extra separation in import group before &apos;java.awt.Color&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="9" severity="warning" message="Wrong lexicographical order for &apos;java.awt.Color&apos; import. Should be before &apos;java.awt.Font&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="10" severity="warning" message="Wrong lexicographical order for &apos;java.awt.Dimension&apos; import. Should be before &apos;java.awt.Font&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/gui/RanOverLoseFrame.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/gui/LevelFrame.java">
+<error line="58" column="69" severity="warning" message="&apos;+&apos; should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="59" severity="warning" message="&apos;method call&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="59" column="94" severity="warning" message="&apos;+&apos; should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="60" severity="warning" message="&apos;method call&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="60" column="109" severity="warning" message="&apos;+&apos; should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="61" severity="warning" message="&apos;method call&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="61" column="127" severity="warning" message="&apos;+&apos; should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="62" severity="warning" message="&apos;method call&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="62" column="129" severity="warning" message="&apos;+&apos; should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="63" severity="warning" message="&apos;method call&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="63" column="124" severity="warning" message="&apos;+&apos; should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="64" severity="warning" message="&apos;method call&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/gui/WinFrame.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/gui/Main.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/gui/DerailLoseFrame.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/gui/GameFrame.java">
+<error line="15" severity="warning" message="Wrong lexicographical order for &apos;java.awt.Font&apos; import. Should be before &apos;java.awt.event.KeyEvent&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="45" severity="warning" message="Distance between variable &apos;font&apos; declaration and its first usage is 6, but allowed 3.  Consider making that variable final if you still need to store its value in advance (before method calls that might have side effects on the original value)." source="com.puppycrawl.tools.checkstyle.checks.coding.VariableDeclarationUsageDistanceCheck"/>
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/gui/MainMenuFrame.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/tui/Main.java">
+</file>
+<file name="/home/arseni/Desktop/project-build-cross/src/tui/TUI.java">
+</file>
+</checkstyle>

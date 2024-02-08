@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=LevelFrame
+comment0.text=\n\ The\ level\ frame,\ will\ show\ the\ level\ difficulty\ selection\ screen.\n\ \n\ @author\ arseni.loika@usi.ch\n\ @author\ delara.lomen@usi.ch\n\ \n\ @version\ 28/05/2022\n
+comment1.params=
+comment1.target=LevelFrame()
+comment1.text=\n\ Type\ of\ map\ being\ selected.\n
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=GameContent\ getGameContent()
+comment3.text=\n\ Game\ content\ getter\ method,\ to\ obtain\ all\ the\ relevant\ data.\n\ \n\ @return\ game\ content.\n
+comment4.params=
+comment4.target=java.awt.Dimension\ getGameDimension()
+comment4.text=\n\ Dimension\ setter\ method.\n\ \n\ @return\ dimension\ the\ dimensipn.\n
+comment5.params=
+comment5.target=java.awt.Dimension\ getPreferredSize()
+comment5.text=\n\ Preferred\ size\ /\ dimension\ getter\ method.\n\ \n\ @return\ dimension\ the\ dimension.\n
+numComments=6

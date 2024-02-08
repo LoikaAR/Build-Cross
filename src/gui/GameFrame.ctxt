@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GameFrame
+comment0.text=\n\ GameFrame\ class,\n\ contains\ all\ information\ about\ the\ game.\n\ \n\ @author\ arseni.loika@usi.ch\n\ @author\ delara.lomen@usi.ch\n\ @version\ 28/05/2022\n
+comment1.params=
+comment1.target=GameFrame()
+comment1.text=\n\ GameFrame\ constructor,\n\ contains\ all\ the\ relevant\ action\ listeners\ to\ update\ the\ frame\ as\ the\ game\ is\ played.\n
+comment2.params=event
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment3.params=
+comment3.target=java.awt.Dimension\ getGameDimension()
+comment3.text=\n\ Method\ to\ obtain\ Dimension\ from\ the\ GameContent\ class.\n\ \n\ @return\ dimension\ the\ dimension.\n
+numComments=4

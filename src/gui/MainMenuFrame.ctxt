@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MainMenuFrame
+comment0.text=\n\ The\ main\ menu\ class,\ will\ contain\ the\ information\n\ about\ all\ other\ frames\ and\ call\ them\ as\ necessary.\n\ \n\ @author\ arseni.loika@usi.ch\n\ @author\ delara.lomen@usi.ch\n\ \n\ @version\ 28/05/2022\n
+comment1.params=
+comment1.target=MainMenuFrame()
+comment1.text=\n\ Default\ constructor\ for\ the\ main\ menu\ class.\n
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=java.awt.Dimension\ getGameDimension()
+comment4.text=\n\ Getter\ method\ for\ the\ dimension.\n\ \n\ @return\ the\ dimension.\n
+comment5.params=
+comment5.target=java.awt.Dimension\ getPreferredSize()
+comment5.text=\n\ Method\ to\ set\ preferred\ dimension\ of\ the\ frame.\n\ \n\ @return\ dimension\ the\ dimension\ of\ the\ frame.\n
+numComments=6

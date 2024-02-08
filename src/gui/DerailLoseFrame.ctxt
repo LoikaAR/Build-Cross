@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=DerailLoseFrame
+comment0.text=\n\ DerailLoseFrame\ class;\n\ appears\ when\ the\ player\ loses,\n\ if\ the\ train\ derails\ before\ a\ rail\ is\ placed.\n\ \n\ @author\ arseni.loika@usi.ch\n\ @author\ delara.lomen@usi.ch\n\ @version\ 28.05.2022\n
+comment1.params=
+comment1.target=DerailLoseFrame()
+comment1.text=\n\ The\ frame\ displayed\ if\ the\ train\ is\ derailed.\n
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=java.awt.Dimension\ getGameDimension()
+comment4.text=\n\ Method\ to\ obtain\ Dimension\ from\ the\ GameContent\ class.\n\ \n\ @return\ dimension\ the\ dimension.\n
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ The\ main\ GUI\ class.\n\n\ @author\ arseni.loika@usi.ch\n\ @author\ delara.lomen@usi.ch\n\ @version\ 25.05.2022\n
+comment1.params=
+comment1.target=Main()
+comment1.text=\n\ Constructor\ for\ Main.\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\n\ The\ main\ method\ of\ the\ gui.\n\ \n\ @param\ args\ -\ the\ standard\ argument\ for\ the\ main\ method.\n
+numComments=3
